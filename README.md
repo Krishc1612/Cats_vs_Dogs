@@ -9,4 +9,4 @@
 #### Author:
 
 - **Krish Chauhan**, CSE 2nd year student @ MNNIT Allahabad.
-- [Linked In] (https://www.linkedin.com/in/krish-chauhan-26a40233b)
+- [LinkedIn](https://www.linkedin.com/in/krish-chauhan-26a40233b)
